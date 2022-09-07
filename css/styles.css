@@ -1,0 +1,132 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+#beavis{
+  width: 150px;
+  height: 300px;
+  transform: rotate(18deg);
+  margin-left: 200px;
+
+
+
+}
+
+h1 {
+  font: Montserrat-Black;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+
+body{
+  font-family: Montserrat;
+}
+
+
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.nav-item {
+
+  padding: 0 18px;
+
+}
+
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat-Light
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0
+}
+
+.features-edit{
+  font-family: Montserrat-Bold;
+  padding-top: 25;
+  padding-left: 25;
+
+  font-size: 1.5rem;
+}
+
+.paragragh-edit{
+  color: #8f8f8f;
+}
+
+
+.icon-edit{
+  color: #ef8172;
+}
+
+.imgEdit{
+  height: 300px;
+  width: 150px;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+#IMG {
+  height: 300px;
+  width: 200px;
+  margin-bottom: 20px;
+  margin-left: 50px
+}
+
+
+i:hover {
+color: lime;
+
+}
+
+
+
+.photo-background{
+
+  background-color: #FAF4B7;
+
+}
+
+.press{
+margin-bottom: 80px;
+}
+
+.pricingList{
+  text-align: center;
+  background-color: #C4DFAA;
+}
+
+.customBtn{
+  color: #76BA99;
+}
+
+.endBackground {
+  background-color: #ff4c68;
+
+}
+
+.footerParagraph{
+
+  margin-bottom: 0px;
+}
+
+.easyToUse{
+  margin-left: 0.625rem;
+}
+
+#noLonger{
+  padding-left: 3.125rem;
+}
